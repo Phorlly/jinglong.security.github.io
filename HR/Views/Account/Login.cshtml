@@ -1,0 +1,66 @@
+﻿@using Web_Application.Models
+@model LoginViewModel
+@{
+    ViewBag.Title = "Log in";
+}
+<style>
+    body {
+        background-color: #EFEFEF;
+        /*background-image: url(../../images/accountantTHEME.jpg);*/
+        background-size: cover;
+        overflow-y: hidden;
+        min-height: 100vh;
+    }
+    #saleD {
+        color: #000000;
+        text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.5);
+    }
+</style>
+
+<div class="container-fluid" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <!--New form-->
+    <div style="height: 100vh; " class="d-flex justify-content-center align-items-center">
+
+        <section>
+            <div class="form-control d-flex  shadow-lg p-5 mb-5 bg-white rounded-4  ">
+                <div>
+                    <img src="~/images/logo.png" class="img-fluid d-none d-md-block w-75" alt="Alternate Text" />
+                </div>
+                @using (Html.BeginForm("Login", "Account", new { ReturnUrl = ViewBag.ReturnUrl }, FormMethod.Post, new { role = "form" }))
+                {
+                    @Html.AntiForgeryToken()
+
+                    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+                    <div class="bg-white">
+                        <div class="mb-3 text-center">
+                            <h1 class=" text-warning" id="saleD">PLEASE LOGIN</h1>
+                            <p>Please login your username and password</p>
+                        </div>
+
+                        <div class="mb-3 ">
+                            <label for="exampleInputEmail1" class="form-label">Username</label>
+                            @Html.TextBoxFor(m => m.Email, new { @class = "form-control" })
+                            @Html.ValidationMessageFor(m => m.Email, "", new { @class = "text-danger" })
+                        </div>
+                        <div class="mb-3">
+                            <label for="exampleInputEmail1" class="form-label">Password</label>
+                            @Html.PasswordFor(m => m.Password, new { @class = "form-control" })
+                            @Html.ValidationMessageFor(m => m.Password, "", new { @class = "text-danger" })
+                        </div>
+                        <div class="mb-3">
+                            @Html.CheckBoxFor(m => m.RememberMe)
+                            @Html.LabelFor(m => m.RememberMe)
+                        </div>
+                        <button type="submit" class="btn btn-warning w-100">LOGIN</button>
+                    </div>
+                }
+            </div>
+        </section>
+    </div>
+
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

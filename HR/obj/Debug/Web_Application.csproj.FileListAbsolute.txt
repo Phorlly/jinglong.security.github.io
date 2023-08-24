@@ -1,0 +1,299 @@
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\Web_Application.dll.config
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\Web_Application.dll
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\Web_Application.pdb
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\roslyn\csc.exe
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\roslyn\csc.exe.config
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\roslyn\csc.rsp
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\roslyn\csi.exe
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\roslyn\csi.exe.config
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\roslyn\csi.rsp
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\roslyn\System.Buffers.dll
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\roslyn\System.Collections.Immutable.dll
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\roslyn\System.Memory.dll
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\roslyn\System.Numerics.Vectors.dll
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\roslyn\System.Reflection.Metadata.dll
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\roslyn\vbc.exe
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\roslyn\vbc.exe.config
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\roslyn\vbc.rsp
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\roslyn\VBCSCompiler.exe
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\roslyn\VBCSCompiler.exe.config
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\Antlr3.Runtime.dll
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\EntityFramework.dll
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\EntityFramework.SqlServer.dll
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\Microsoft.Owin.dll
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\Microsoft.Owin.Security.dll
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\Microsoft.Owin.Security.Google.dll
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\Microsoft.Web.Infrastructure.dll
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\Newtonsoft.Json.dll
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\Owin.dll
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\Swashbuckle.Core.dll
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\System.Net.Http.Formatting.dll
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\System.Web.Helpers.dll
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\System.Web.Http.dll
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\System.Web.Http.WebHost.dll
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\System.Web.Mvc.dll
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\System.Web.Optimization.dll
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\System.Web.Razor.dll
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\System.Web.WebPages.Deployment.dll
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\System.Web.WebPages.dll
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\System.Web.WebPages.Razor.dll
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\WebActivatorEx.dll
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\WebGrease.dll
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\System.Web.Helpers.xml
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\System.Web.Mvc.xml
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\System.Web.Optimization.xml
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\System.Web.Razor.xml
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\System.Web.WebPages.xml
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\System.Web.WebPages.Deployment.xml
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\System.Web.WebPages.Razor.xml
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\Antlr3.Runtime.pdb
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\System.Net.Http.Formatting.xml
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\System.Web.Http.xml
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\System.Web.Http.WebHost.xml
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\EntityFramework.xml
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\EntityFramework.SqlServer.xml
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\Microsoft.Owin.xml
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\Microsoft.Owin.Security.xml
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\Microsoft.Owin.Security.Google.xml
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Work\Web Linda Gold\webapplication\Web_Application\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Work\Web Linda Gold\webapplication\Web_Application\obj\Debug\Web_Application.csproj.AssemblyReference.cache
+D:\Work\Web Linda Gold\webapplication\Web_Application\obj\Debug\Web_Application.Migrations.initial.resources
+D:\Work\Web Linda Gold\webapplication\Web_Application\obj\Debug\Web_Application.Migrations.AddCustomerTypeModel.resources
+D:\Work\Web Linda Gold\webapplication\Web_Application\obj\Debug\Web_Application.csproj.GenerateResource.cache
+D:\Work\Web Linda Gold\webapplication\Web_Application\obj\Debug\Web_Application.csproj.CoreCompileInputs.cache
+D:\Work\Web Linda Gold\webapplication\Web_Application\obj\Debug\Web_Application.csproj.CopyComplete
+D:\Work\Web Linda Gold\webapplication\Web_Application\obj\Debug\Web_Application.dll
+D:\Work\Web Linda Gold\webapplication\Web_Application\obj\Debug\Web_Application.pdb
+D:\Project\webapplication\Web_Application\bin\Web_Application.dll.config
+D:\Project\webapplication\Web_Application\bin\Web_Application.dll
+D:\Project\webapplication\Web_Application\bin\Web_Application.pdb
+D:\Project\webapplication\Web_Application\bin\roslyn\csc.exe
+D:\Project\webapplication\Web_Application\bin\roslyn\csc.exe.config
+D:\Project\webapplication\Web_Application\bin\roslyn\csc.rsp
+D:\Project\webapplication\Web_Application\bin\roslyn\csi.exe
+D:\Project\webapplication\Web_Application\bin\roslyn\csi.exe.config
+D:\Project\webapplication\Web_Application\bin\roslyn\csi.rsp
+D:\Project\webapplication\Web_Application\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Project\webapplication\Web_Application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Project\webapplication\Web_Application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Project\webapplication\Web_Application\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Project\webapplication\Web_Application\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Project\webapplication\Web_Application\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Project\webapplication\Web_Application\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Project\webapplication\Web_Application\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Project\webapplication\Web_Application\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Project\webapplication\Web_Application\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\Project\webapplication\Web_Application\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Project\webapplication\Web_Application\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Project\webapplication\Web_Application\bin\roslyn\System.Buffers.dll
+D:\Project\webapplication\Web_Application\bin\roslyn\System.Collections.Immutable.dll
+D:\Project\webapplication\Web_Application\bin\roslyn\System.Memory.dll
+D:\Project\webapplication\Web_Application\bin\roslyn\System.Numerics.Vectors.dll
+D:\Project\webapplication\Web_Application\bin\roslyn\System.Reflection.Metadata.dll
+D:\Project\webapplication\Web_Application\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\Project\webapplication\Web_Application\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Project\webapplication\Web_Application\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Project\webapplication\Web_Application\bin\roslyn\vbc.exe
+D:\Project\webapplication\Web_Application\bin\roslyn\vbc.exe.config
+D:\Project\webapplication\Web_Application\bin\roslyn\vbc.rsp
+D:\Project\webapplication\Web_Application\bin\roslyn\VBCSCompiler.exe
+D:\Project\webapplication\Web_Application\bin\roslyn\VBCSCompiler.exe.config
+D:\Project\webapplication\Web_Application\bin\Antlr3.Runtime.dll
+D:\Project\webapplication\Web_Application\bin\EntityFramework.dll
+D:\Project\webapplication\Web_Application\bin\EntityFramework.SqlServer.dll
+D:\Project\webapplication\Web_Application\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Project\webapplication\Web_Application\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Project\webapplication\Web_Application\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Project\webapplication\Web_Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Project\webapplication\Web_Application\bin\Microsoft.Owin.dll
+D:\Project\webapplication\Web_Application\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Project\webapplication\Web_Application\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Project\webapplication\Web_Application\bin\Microsoft.Owin.Security.dll
+D:\Project\webapplication\Web_Application\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Project\webapplication\Web_Application\bin\Microsoft.Owin.Security.Google.dll
+D:\Project\webapplication\Web_Application\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Project\webapplication\Web_Application\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Project\webapplication\Web_Application\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Project\webapplication\Web_Application\bin\Microsoft.Web.Infrastructure.dll
+D:\Project\webapplication\Web_Application\bin\Newtonsoft.Json.dll
+D:\Project\webapplication\Web_Application\bin\Owin.dll
+D:\Project\webapplication\Web_Application\bin\Swashbuckle.Core.dll
+D:\Project\webapplication\Web_Application\bin\System.Net.Http.Formatting.dll
+D:\Project\webapplication\Web_Application\bin\System.Web.Helpers.dll
+D:\Project\webapplication\Web_Application\bin\System.Web.Http.dll
+D:\Project\webapplication\Web_Application\bin\System.Web.Http.WebHost.dll
+D:\Project\webapplication\Web_Application\bin\System.Web.Mvc.dll
+D:\Project\webapplication\Web_Application\bin\System.Web.Optimization.dll
+D:\Project\webapplication\Web_Application\bin\System.Web.Razor.dll
+D:\Project\webapplication\Web_Application\bin\System.Web.WebPages.Deployment.dll
+D:\Project\webapplication\Web_Application\bin\System.Web.WebPages.dll
+D:\Project\webapplication\Web_Application\bin\System.Web.WebPages.Razor.dll
+D:\Project\webapplication\Web_Application\bin\WebActivatorEx.dll
+D:\Project\webapplication\Web_Application\bin\WebGrease.dll
+D:\Project\webapplication\Web_Application\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Project\webapplication\Web_Application\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Project\webapplication\Web_Application\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Project\webapplication\Web_Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Project\webapplication\Web_Application\bin\System.Web.Helpers.xml
+D:\Project\webapplication\Web_Application\bin\System.Web.Mvc.xml
+D:\Project\webapplication\Web_Application\bin\System.Web.Optimization.xml
+D:\Project\webapplication\Web_Application\bin\System.Web.Razor.xml
+D:\Project\webapplication\Web_Application\bin\System.Web.WebPages.xml
+D:\Project\webapplication\Web_Application\bin\System.Web.WebPages.Deployment.xml
+D:\Project\webapplication\Web_Application\bin\System.Web.WebPages.Razor.xml
+D:\Project\webapplication\Web_Application\bin\Antlr3.Runtime.pdb
+D:\Project\webapplication\Web_Application\bin\System.Net.Http.Formatting.xml
+D:\Project\webapplication\Web_Application\bin\System.Web.Http.xml
+D:\Project\webapplication\Web_Application\bin\System.Web.Http.WebHost.xml
+D:\Project\webapplication\Web_Application\bin\EntityFramework.xml
+D:\Project\webapplication\Web_Application\bin\EntityFramework.SqlServer.xml
+D:\Project\webapplication\Web_Application\bin\Microsoft.Owin.xml
+D:\Project\webapplication\Web_Application\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Project\webapplication\Web_Application\bin\Microsoft.Owin.Security.xml
+D:\Project\webapplication\Web_Application\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Project\webapplication\Web_Application\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Project\webapplication\Web_Application\bin\Microsoft.Owin.Security.Google.xml
+D:\Project\webapplication\Web_Application\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Project\webapplication\Web_Application\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Project\webapplication\Web_Application\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Project\webapplication\Web_Application\obj\Debug\Web_Application.csproj.AssemblyReference.cache
+D:\Project\webapplication\Web_Application\obj\Debug\Web_Application.Migrations.initial.resources
+D:\Project\webapplication\Web_Application\obj\Debug\Web_Application.Migrations.AddCustomerTypeModel.resources
+D:\Project\webapplication\Web_Application\obj\Debug\Web_Application.csproj.GenerateResource.cache
+D:\Project\webapplication\Web_Application\obj\Debug\Web_Application.csproj.CoreCompileInputs.cache
+D:\Project\webapplication\Web_Application\obj\Debug\Web_Application.csproj.CopyComplete
+D:\Project\webapplication\Web_Application\obj\Debug\Web_Application.dll
+D:\Project\webapplication\Web_Application\obj\Debug\Web_Application.pdb
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\Web_Application.dll.config
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\Web_Application.dll
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\Web_Application.pdb
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\roslyn\csc.exe
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\roslyn\csc.exe.config
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\roslyn\csc.rsp
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\roslyn\csi.exe
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\roslyn\csi.exe.config
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\roslyn\csi.rsp
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\roslyn\Microsoft.Managed.Core.targets
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\roslyn\System.Buffers.dll
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\roslyn\System.Collections.Immutable.dll
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\roslyn\System.Memory.dll
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\roslyn\System.Numerics.Vectors.dll
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\roslyn\System.Reflection.Metadata.dll
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\roslyn\vbc.exe
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\roslyn\vbc.exe.config
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\roslyn\vbc.rsp
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\roslyn\VBCSCompiler.exe
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\roslyn\VBCSCompiler.exe.config
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\Antlr3.Runtime.dll
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\EntityFramework.dll
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\EntityFramework.SqlServer.dll
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\Microsoft.AspNet.Identity.Core.dll
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\Microsoft.Owin.dll
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\Microsoft.Owin.Security.Cookies.dll
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\Microsoft.Owin.Security.dll
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\Microsoft.Owin.Security.Facebook.dll
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\Microsoft.Owin.Security.Google.dll
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\Microsoft.Owin.Security.OAuth.dll
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\Microsoft.Owin.Security.Twitter.dll
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\Microsoft.Web.Infrastructure.dll
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\Newtonsoft.Json.dll
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\Owin.dll
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\Swashbuckle.Core.dll
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\System.Net.Http.Formatting.dll
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\System.Web.Helpers.dll
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\System.Web.Http.dll
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\System.Web.Http.WebHost.dll
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\System.Web.Mvc.dll
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\System.Web.Optimization.dll
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\System.Web.Razor.dll
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\System.Web.WebPages.Deployment.dll
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\System.Web.WebPages.dll
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\System.Web.WebPages.Razor.dll
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\WebActivatorEx.dll
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\WebGrease.dll
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\Microsoft.AspNet.Identity.Core.xml
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\System.Web.Helpers.xml
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\System.Web.Mvc.xml
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\System.Web.Optimization.xml
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\System.Web.Razor.xml
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\System.Web.WebPages.xml
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\System.Web.WebPages.Deployment.xml
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\System.Web.WebPages.Razor.xml
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\Antlr3.Runtime.pdb
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\System.Net.Http.Formatting.xml
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\System.Web.Http.xml
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\System.Web.Http.WebHost.xml
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\EntityFramework.xml
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\EntityFramework.SqlServer.xml
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\Microsoft.Owin.xml
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\Microsoft.Owin.Security.xml
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\Microsoft.Owin.Security.Facebook.xml
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\Microsoft.Owin.Security.Cookies.xml
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\Microsoft.Owin.Security.Google.xml
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\Microsoft.Owin.Security.Twitter.xml
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\bin\Microsoft.Owin.Security.OAuth.xml
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\obj\Debug\Web_Application.csproj.AssemblyReference.cache
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\obj\Debug\Web_Application.csproj.CoreCompileInputs.cache
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\obj\Debug\Web_Application.csproj.CopyComplete
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\obj\Debug\Web_Application.dll
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\obj\Debug\Web_Application.pdb
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\obj\Debug\Web_Application.Migrations.Initial.resources
+D:\IT-Projects\ASP.NET\humanresource\Web_Application\obj\Debug\Web_Application.csproj.GenerateResource.cache
